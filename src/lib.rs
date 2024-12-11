@@ -10,6 +10,10 @@ mod d3_1;
 
 mod d3_2;
 
+mod d10_1;
+mod d10_2;
+mod d11_1;
+mod d11_2;
 mod d4_1;
 mod d4_2;
 mod d5_1;
@@ -22,5 +26,3 @@ mod d8_1;
 mod d8_2;
 mod d9_1;
 mod d9_2;
-mod d10_1;
-mod d10_2;
