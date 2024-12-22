@@ -90,7 +90,6 @@ fn main() {
 fn test_small_example() {
     let map_str = "########\n#..O.O.#\n##@.O..#\n#...O..#\n#.#.O..#\n#...O..#\n#......#";
     let moves_str = "<^^>>>vv<v>>v<<";
-    dbg!(solve_with_input(map_str, moves_str));
     assert_eq!(solve_with_input(map_str, moves_str), 2028);
 }
 

@@ -19,3 +19,11 @@ since every deg(edge) == 2, so 2V=2E, V=E, only need to count edge.
 d14
 
 very funny
+
+---
+
+d15_1 solved, point is can push multiple `O` at a time
+
+by gemini 2.0 flash thinking experimental
+
+---
