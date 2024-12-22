@@ -88,3 +88,5 @@ mod d19_1;
 #[rustfmt::skip]
 
 mod d19_2;
+mod d22_1;
+mod d22_2;

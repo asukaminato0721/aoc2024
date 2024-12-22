@@ -27,3 +27,7 @@ d15_1 solved, point is can push multiple `O` at a time
 by gemini 2.0 flash thinking experimental
 
 ---
+
+d22_1 solved by claude
+
+d22_2 solved by gemini 2.0 flash
