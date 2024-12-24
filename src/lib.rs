@@ -92,3 +92,5 @@ mod d22_1;
 mod d22_2;
 mod d23_1;
 mod d23_2;
+mod d24_1;
+mod d24_2;
